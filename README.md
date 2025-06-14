@@ -57,7 +57,7 @@ Each image is labeled as one of ten clothing categories, making it suitable for 
 
 ## 📈 Results
 
-- The CNN model achieved a **test accuracy of 92.1%** on the Fashion-MNIST dataset.
+- The CNN model achieved a **test accuracy of 90.95%** on the Fashion-MNIST dataset.
 - Training and validation accuracy curves showed good convergence, with minimal overfitting.
 - Confusion matrix analysis indicated strong class-wise performance, with most misclassifications occurring between visually similar classes.
 - These results demonstrate the feasibility of using deep learning for automated, object-based CCTV recording[5][3].
